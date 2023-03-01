@@ -1,0 +1,28 @@
+Budżet(czas):100h
+Cel projektu:
+- przejrzysty interfejs
+- wyświetlenie kebabów w okolicy na podstawie wybranego adresu lub z użyciem gps
+- dodawanie opinii na temat restauracji
+Role:
+- project manager
+- programista(frontend)
+- programista(backend)
+- tester/testerzy oprogramowania 
+
+Wizja: 
+Dostarczanie informacji na temat tras autobusów miejskich w Olsztynie oraz sprzedaż biletów za pomocą aplikacji mobilnej
+Wartość biznesowa: 
+Zarobek ze sprzedaży biletów
+Zakres: 
+Możliwość sprawdzenia godzin kursowania danego autobusu, stacji na których się zatrzymuje, na jakiej stacji zatrzymują się jakie autobusy, sprzedaż biletów
+Role w projekcie:
+- Product Designer
+- Technical lead
+- Programiści
+- Test Manager
+- Testerzy
+KPI:
+- Stworzenie projektu aplikacji
+- Stworzenie wersji próbnej aplikacji
+- Zatwierdzenie wersji próbnej aplikacji 
+- Oficjalne wydanie aplikacji
